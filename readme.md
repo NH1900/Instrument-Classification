@@ -1,6 +1,6 @@
 # [![result](Media/testing.png)](https://github.com/NH1900)
 ## 目录
-* [background](#background)
+* [Background](#background)
 * [usage](#usage)
 * [content](#content)
     * 普通文本
@@ -13,7 +13,7 @@
     * 删除线
 * [future work](#future work)
 
-### background
+### Background
 ------
 
 ### usage
